@@ -1,2 +1,2 @@
 # ML_CNN_Project
-All the files for our CNN project for image classification.
+This is a repository containging all the files for the Machine Learning project done by Khelan Hari and Muzi Nhlangulela.
